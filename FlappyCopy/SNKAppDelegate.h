@@ -1,0 +1,15 @@
+//
+//  SNKAppDelegate.h
+//  FlappyCopy
+//
+//  Created by Kévin Mondésir on 04/05/2014.
+//  Copyright (c) 2014 Kmonde. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface SNKAppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+@end
